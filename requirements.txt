@@ -1,3 +1,5 @@
+Courese ref https://github.com/codesensei-courses/django_getting_started
+
 asgiref==3.2.3
 django>=3.0.3
 pytz==2019.3
